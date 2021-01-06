@@ -1,0 +1,16 @@
+{
+  "title": "Why Spickles?",
+  "text": "Aqui dizemos qualquer coisa sobre o porquê",
+  "section": [
+    {
+      "title": "Fast",
+      "content": "Aqui dizemos porque é mais rápido.",
+      "icon": "fast.svg"
+    },
+    {
+      "title": "Qualquer coisa",
+      "content": "Relacionado com o de cima.",
+      "icon": "notes.svg"
+    }
+  ]
+}
