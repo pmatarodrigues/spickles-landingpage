@@ -1,15 +1,15 @@
 {
-  "title": "Why Spickles?",
-  "text": "Everybody gets a say on what movie you should watch.",
+  "title": "SecondBlockTitle",
+  "text": "SecondBlockText",
   "section": [
     {
-      "title": "Fast",
-      "content": "Fastest way to choose a movie for a couple or group.",
+      "title": "SecondBlockSection1Title",
+      "content": "SecondBlockSection1Content",
       "icon": "fast.svg"
     },
     {
-      "title": "Qualquer coisa",
-      "content": "Everyone's preferences in one app means a movie everybody will be happy to watch.",
+      "title": "SecondBlockSection2Title",
+      "content": "SecondBlockSection2Content",
       "icon": "notes.svg"
     }
   ]
