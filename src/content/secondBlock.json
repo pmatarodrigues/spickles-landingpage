@@ -1,15 +1,15 @@
 {
   "title": "Why Spickles?",
-  "text": "Aqui dizemos qualquer coisa sobre o porquê",
+  "text": "Everybody gets a say on what movie you should watch.",
   "section": [
     {
       "title": "Fast",
-      "content": "Aqui dizemos porque é mais rápido.",
+      "content": "Fastest way to choose a movie for a couple or group.",
       "icon": "fast.svg"
     },
     {
       "title": "Qualquer coisa",
-      "content": "Relacionado com o de cima.",
+      "content": "Everyone's preferences in one app means a movie everybody will be happy to watch.",
       "icon": "notes.svg"
     }
   ]
