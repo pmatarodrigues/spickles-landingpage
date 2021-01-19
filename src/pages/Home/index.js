@@ -66,9 +66,9 @@ const Home = () => {
           <S.Title>Make a decision</S.Title>
           <S.Description>Every person in the room will choose from a selection of movies. Swipe right or left, if you want to watch a movie or not, respectively.</S.Description>
           <div style={{ display: "flex", justifyContent: 'space-evenly', marginTop: '20px' }}>
-            <img style={{ width: '30px', filter: 'invert(39%) sepia(95%) saturate(1165%) hue-rotate(88deg) brightness(99%) contrast(112%)' }} src="/img/svg/check.svg" />
             <img style={{ width: '30px', filter: 'invert(28%) sepia(94%) saturate(6936%) hue-rotate(359deg) brightness(101%) contrast(108%)' }} src="/img/svg/close.svg" />
             <img style={{ width: '30px', filter: 'invert(84%) sepia(46%) saturate(3509%) hue-rotate(5deg) brightness(103%) contrast(106%)' }} src="/img/svg/eye.svg" />
+            <img style={{ width: '30px', filter: 'invert(39%) sepia(95%) saturate(1165%) hue-rotate(88deg) brightness(99%) contrast(112%)' }} src="/img/svg/check.svg" />
           </div>
         </S.Box>
       </S.BoxSection>
