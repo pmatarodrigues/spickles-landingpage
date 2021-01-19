@@ -30,6 +30,9 @@ const Header = () => {
         <S.CustomNavLinkSmall>
           <a href="#why">{t("Why Spickles?")}</a>
         </S.CustomNavLinkSmall>
+        <S.CustomNavLinkSmall>
+          <a href="#how">{t("How it works")}</a>
+        </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall style={{ width: "180px" }}>
           <a href="#footer">
             <Button>{t("Get Spickles")}</Button>
