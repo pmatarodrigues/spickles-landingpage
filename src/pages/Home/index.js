@@ -68,7 +68,7 @@ const Home = () => {
 
         <S.Box>
           <S.Title>{t("HowTitle3")}</S.Title>
-          <S.Description>{t("HowText2")}</S.Description>
+          <S.Description>{t("HowText3")}</S.Description>
           <div style={{ display: "flex", justifyContent: 'space-evenly', marginTop: '20px' }}>
             <img style={{ width: '30px', filter: 'invert(28%) sepia(94%) saturate(6936%) hue-rotate(359deg) brightness(101%) contrast(108%)' }} src="/img/svg/close.svg" />
             <img style={{ width: '40px', filter: 'invert(84%) sepia(46%) saturate(3509%) hue-rotate(5deg) brightness(103%) contrast(106%)' }} src="/img/svg/eye.svg" />
