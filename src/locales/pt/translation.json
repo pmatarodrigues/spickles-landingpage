@@ -12,20 +12,20 @@
   "FirstBlockButton": "Começar",
 
   "SecondBlockTitle": "Porquê o Spickles?",
-  "SecondBlockText": "Toda a gente decide que filme ver.",
+  "SecondBlockText": "Não percas mais tempo só para conseguir escolher um filme que agrade a todos.",
   "SecondBlockSection1Title": "Rápido",
-  "SecondBlockSection1Content": "Fastest way to choose a movie for a couple or group.",
-  "SecondBlockSection2Title": "Qualquer coisa",
-  "SecondBlockSection2Content": "Everyone's preferences in one app means a movie everybody will be happy to watch.",
+  "SecondBlockSection1Content": "Forma mais rápida de escolher um filme para um casal ou grupo.",
+  "SecondBlockSection2Title": "Fácil de usar",
+  "SecondBlockSection2Content": "Os gostos de todos numa aplicação só resulta num filme que todos vão querer ver.",
 
-  "ThirdBlockTitle": "Suggestions made for you.",
-  "ThirdBlockText": "Spickles learns with you so we can always improve and show you better things to watch. Life is too short to watch movies you don't like.",
+  "ThirdBlockTitle": "Sugestões feitas para ti.",
+  "ThirdBlockText": "O Spickles aprende contigo para poder fazer sugestões cada vez melhores. A vida é demasiado curta para ver filmes de que não gostas.",
 
-  "ContactBlockTitle": "Contact Form",
+  "ContactBlockTitle": "Formulário de Contacto",
   "ContactBlockText": "The following form demonstrates form validation in action. Contact form component reduces the amount of time it is being re-rendered by the user as it embraces uncontrolled form validation to reduce any unnecessary performance penalty.",
 
-  "ABOUT US": "ABOUT US",
-  "ABOUT US 1": "Spickles is brought to you by GOTA",
-  "ABOUT US 2": "This is a university class project",
-  "ABOUT US 3": "made by University of Minho masters' students"
+  "ABOUT US": "SOBRE NÓS",
+  "ABOUT US 1": "Spickles é uma produção dos GOTA",
+  "ABOUT US 2": "É um projeto para uma unidade curricular",
+  "ABOUT US 3": "feito por estudantes de Mestrado da Universidade do Minho"
 }

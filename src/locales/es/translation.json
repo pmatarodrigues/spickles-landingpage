@@ -1,5 +1,12 @@
 {
   "About": "Acerca de",
+  "Language": "Lengua",
+  "Get Spickles": "Obtén Spickles",
+  "Why Spickles?": "¿Por qué Spickles?",
+
+  "IntroductionTitle": "Enjoy movie nights with your friends.",
+  "IntroductionText": "Spend less time choosing.",
+
   "Policy": "POLÍTICA",
   "Mission": "Misión",
   "Product": "Producto",
@@ -13,6 +20,5 @@
   "Customer Support": "Atención al cliente",
   "ADDRESS": "HABLA A",
   "Press": "Prensa",
-  "Careers & Culture": "Carreras & cultura",
-  "Language": "Language"
+  "Careers & Culture": "Carreras & cultura"
 }
