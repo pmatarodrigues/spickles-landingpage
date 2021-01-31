@@ -84,6 +84,27 @@ export const Para = styled.div`
   width: 100%;
 `;
 
+export const ALarge = styled.a`
+  font-size: 16px;
+  color: rgba(2, 7, 62, 0.8);
+  text-align: left;
+  padding: 0 10%;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-transform: capitalize;
+  line-height: 24px;
+  display: block;
+  margin-bottom: 0.625rem;
+
+  &:hover {
+    color: #dc4414;
+  }
+
+  &.active {
+    color: #dc4414;
+  }
+`;
+
 export const Large = styled(Link)`
   font-size: 16px;
   color: rgba(2, 7, 62, 0.8);

@@ -29,13 +29,14 @@ const Footer = () => {
                 <S.Para>{t("ABOUT US 3")}</S.Para>
               </Col>
               <Col lg={8} md={8} sm={12} xs={24}>
-                <S.Title>{t("Company")}</S.Title>
-                <S.Large left="true" to="https://www.facebook.com/spicklesapp">
+                <S.Title>{t("Social")}</S.Title>
+                <a href="https://www.facebook.com/spicklesapp">
                   {t("Facebook")}
-                </S.Large>
-                <S.Large left="true" to="/">
+                </a>
+                <br></br>
+                <a style={{ }} href="https://www.instagram.com/spicklesapp">
                   {t("Instagram")}
-                </S.Large>
+                </a>
               </Col>
               <Col lg={6} md={6} sm={12} xs={24}>
                 <S.Title>{t("Get Spickles")}</S.Title>
@@ -65,14 +66,14 @@ const Footer = () => {
               </S.NavLink>
               <S.FooterContainer>
                 <a
-                  href="https://instagram.com/spicklesapp/"
+                  href="https://facebook.com/spicklesapp/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <SvgIcon src="instagram.svg" />
+                  <SvgIcon src="facebook.svg" />
                 </a>
                 <a
-                  href="https://facebook.com/spicklesapp/"
+                  href="https://instagram.com/spicklesapp/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

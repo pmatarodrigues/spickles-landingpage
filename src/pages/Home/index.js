@@ -13,9 +13,13 @@ import ThirdBlock from "../../content/thirdBlock.json";
 import FourthBlock from "../../content/fourthBlock.json";
 import ContactBlock from "../../content/contactBlock.json";
 
+import { useTranslation } from "react-i18next";
+
 import * as S from "./styles";
 
 const Home = () => {
+  const { t } = useTranslation();
+
   return (
     <Container>
       <ScrollToTop />
@@ -47,24 +51,24 @@ const Home = () => {
       />
 
       <div id="how">
-      <h5 style={{ textAlign: 'center' }}>How it works</h5>
+      <h5 style={{ textAlign: 'center' }}>{t("How it works")}</h5>
 
       <S.BoxSection>
         <S.Box>
-          <S.Title>Company</S.Title>
-          <S.Description>Gather some friends or family</S.Description>
+          <S.Title>{t("HowTitle1")}</S.Title>
+          <S.Description>{t("HowText1")}</S.Description>
           <img style={{ }} src="/img/svg/company.svg" />
         </S.Box>
 
         <S.Box>
-          <S.Title>Join your group</S.Title>
-          <S.Description>Create a session and invite all of your friends easily using QR Code or room code</S.Description>
+          <S.Title>{t("HowTitle2")}</S.Title>
+          <S.Description>{t("HowText2")}</S.Description>
           <img style={{  }} src="/img/svg/session.svg" />
         </S.Box>
 
         <S.Box>
-          <S.Title>Make a decision</S.Title>
-          <S.Description>Every person in the room will choose from a selection of movies. Swipe right or left, if you want to watch a movie or not, respectively.</S.Description>
+          <S.Title>{t("HowTitle3")}</S.Title>
+          <S.Description>{t("HowText2")}</S.Description>
           <div style={{ display: "flex", justifyContent: 'space-evenly', marginTop: '20px' }}>
             <img style={{ width: '30px', filter: 'invert(28%) sepia(94%) saturate(6936%) hue-rotate(359deg) brightness(101%) contrast(108%)' }} src="/img/svg/close.svg" />
             <img style={{ width: '40px', filter: 'invert(84%) sepia(46%) saturate(3509%) hue-rotate(5deg) brightness(103%) contrast(106%)' }} src="/img/svg/eye.svg" />
