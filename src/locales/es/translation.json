@@ -4,9 +4,6 @@
   "Get Spickles": "Obtén Spickles",
   "Why Spickles?": "¿Por qué Spickles?",
 
-  "IntroductionTitle": "Enjoy movie nights with your friends.",
-  "IntroductionText": "Spend less time choosing.",
-
   "Policy": "POLÍTICA",
   "Mission": "Misión",
   "Product": "Producto",
@@ -20,5 +17,26 @@
   "Customer Support": "Atención al cliente",
   "ADDRESS": "HABLA A",
   "Press": "Prensa",
-  "Careers & Culture": "Carreras & cultura"
+  "Careers & Culture": "Carreras & cultura",
+  
+  "IntroductionTitle": "Disfruta de noches de cine con tus amigos.",
+  "IntroductionText": "Pierde menos tiempo escogiendo.",
+
+  "FirstBlockTitle": "Disfruta del tiempo con tus amigos viendo las películas.",
+  "FirstBlockText": "No escogiéndolas.",
+  "FirstBlockButton": "Comenzar",
+
+  "SecondBlockTitle": "¿Por qué Spickles?",
+  "SecondBlockText": "Deja de pasar horas tratando de escoger una película que les guste a todos.",
+  "SecondBlockSection1Title": "Rápido",
+  "SecondBlockSection1Content": "La manera más rápida de escoger una película para una pareja o grupo.",
+  "SecondBlockSection2Title": "Fácil de utilizar",
+  "SecondBlockSection2Content": "Los gustos de todos en solo una app generan una película que todos van desear ver.",
+
+  "ThirdBlockTitle": "Sugerencias hechas para ti.",
+  "ThirdBlockText": "Spickles aprende contigo para que podamos siempre mejorar y mostrarte mejores sugerencias para ver. La vida es demasiado corta para ver películas que no te gustan.",
+"ABOUT US": "SOBRE NOSOTROS",
+  "ABOUT US 1": "Spickles es presentado por GOTA",
+  "ABOUT US 2": "Este es un proyecto de asignatura universitaria",
+  "ABOUT US 3": "hecho por estudiantes de Maestría de la Universidad de Minho"
 }
