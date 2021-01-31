@@ -34,7 +34,7 @@ const Footer = () => {
                   {t("Facebook")}
                 </a>
                 <br></br>
-                <a style={{ }} href="https://www.instagram.com/spicklesapp">
+                <a style={{ }} href="https://www.instagram.com/spickles.app">
                   {t("Instagram")}
                 </a>
               </Col>
@@ -73,7 +73,7 @@ const Footer = () => {
                   <SvgIcon src="facebook.svg" />
                 </a>
                 <a
-                  href="https://instagram.com/spicklesapp/"
+                  href="https://instagram.com/spickles.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
